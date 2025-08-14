@@ -22,10 +22,35 @@ color: black;
     font-size: 130px;
 }
 
-.MainQuestion{
+
+
+.mainQuestion{
     font-size: 50px;
 }
 
 .cardTitle, .sumTitle {
     font-size: 35px;
+}
+
+.cardTitle{
+    text-shadow: 7px 7px 10px red;
+}
+
+.sumTitle{
+    text-shadow: 7px 7px 7px black;
+}
+
+.cardTitle, .sumTitle, .mainQuestion{
+    font-style: italic;
+}
+
+button {
+    background-color: goldenrod;
+    width: 250px;
+    padding: 8px;
+    font-size: 30px;
+    border: none;
+    border-radius:8px ;
+    color: rgb(1, 72, 1);
+    font-weight: bolder;
 }
