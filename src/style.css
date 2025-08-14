@@ -1,0 +1,31 @@
+body{
+    background-image: url(/images/BlackJack\ background\ 3.jpg);
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+.title {
+    color: goldenrod;
+    font-size: 100px;
+}
+
+.letterB {
+color: black;
+}
+
+.letterJ {
+    color: red;
+}
+
+.letterB, .letterJ{
+    font-size: 130px;
+}
+
+.MainQuestion{
+    font-size: 50px;
+}
+
+.cardTitle, .sumTitle {
+    font-size: 35px;
+}
